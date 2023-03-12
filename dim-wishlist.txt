@@ -550,6 +550,12 @@ dimwishlist:item=334171687,1926090091,1561002382,2846385770,47981717
 //notes:Nick’s PVP
 
 //
+//notes:Eric's PvE
+
+//
+//notes:Eric's PvP
+
+//
 //notes:Craftable
 dimwishlist:item=-2545083870
 dimwishlist:item=-768621510
